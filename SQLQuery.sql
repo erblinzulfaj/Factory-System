@@ -1,4 +1,4 @@
---create database Fabrike
+create database Fabrike
 
 use Fabrike
 
